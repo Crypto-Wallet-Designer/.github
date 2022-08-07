@@ -1,6 +1,6 @@
 # Welcome to Crypto Wallet Fortress!
 
-We've built a wallet optimizer that allows you to :
+The wallet optimizer allows you to :
 1. Define asymmetric keys
 2. Generate an optimal wallet for up to 12 keys
 3. Deploy the wallet
