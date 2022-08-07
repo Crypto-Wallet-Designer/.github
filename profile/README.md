@@ -2,7 +2,7 @@
 
 The wallet optimizer allows you to :
 1. Define asymmetric keys
-2. Generate an optimal wallet for up to 12 keys
+2. Generate an optimal wallet for up to 6 (exhaustive search), and a hueristic "optimal" wallet for 7-12 keys (cannot perform an exhaustive search)
 3. Deploy the wallet
 4. Interact with the wallet through a CLI (can run on many machines with different keys)
 
