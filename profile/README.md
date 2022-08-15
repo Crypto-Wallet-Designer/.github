@@ -11,4 +11,4 @@ Please go to https://crypto-wallet-designer.github.io/ to view the live frontend
 After you've deployed a contact, you can use our CLI client at: https://github.com/Crypto-Wallet-Designer/wallet-client-cli/
 
 This project was conducted in the [IC3](https://www.initc3.org/) blockchain camp 2022.
-It is based on the [previous website](http://walletdesign.dev/) and the [research paper](https://eprint.iacr.org/2021/1522.pdf) by Ittay Eyal (presented at Tokenomics 2021)
+It is based on the [previous website](http://walletdesign.dev/) and the [research paper](https://eprint.iacr.org/2021/1522.pdf) by Ittay Eyal (presented at Tokenomics 2021).
